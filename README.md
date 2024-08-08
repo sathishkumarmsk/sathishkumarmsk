@@ -1,4 +1,4 @@
-## Hi there 👋 Im Sathish
+## Hi there 👋 I’m Sathish
 
 
 - 🔭 I’m currently working on developing a mobile application.
